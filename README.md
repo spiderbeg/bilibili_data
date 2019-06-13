@@ -37,7 +37,7 @@
 * 爬取时大部分数据为 json 格式，推荐使用 MongoDB 存储数据;
 * 绘图库使用 matplotlib，官方示例<https://matplotlib.org/>；
 * 对于经常使用的较大的变量可以使用 pickle 序列化。
-## 部分图片展示
+## 部分图片展示（更多图片见 picture 文件夹）
 * 哔哩哔哩2016年至今每月各分类视频发布条形图
 ![publish](picture/total/16_19_publish.png)<br>
 * 哔哩哔哩2016年至今每天视频发布变化图
@@ -46,10 +46,8 @@
 ![publish](picture/total/week.png)<br>
 * 哔哩哔哩2019年6月前视频小时发布变化图
 ![publish](picture/total/hour.png)<br>
-* 哔哩哔哩2016年至今播放数前 1w 视频词云
+* 哔哩哔哩2016年至今播放数前 1w 视频弹幕词云
 ![publish](picture/danmaku_hotcomment/danmaku.png)<br>
-* 哔哩哔哩2016年至今科技类每月各分类视频发布条形图
-![publish](picture/technology/16_19_publish.png)<br>
 * 哔哩哔哩2019年6月前科技类视频星期发布变化图
 ![publish](picture/technology/tech_week.png)<br>
 * 哔哩哔哩2019年6月前科技类视频小时发布变化图
