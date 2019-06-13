@@ -1,0 +1,12 @@
+README.md
+*.pyc
+__pycache__/
+user-data/
+db.sqlite3
+.DS_Store
+settings-server.py
+migrations/
+static/
+matrix_nginx.conf
+matrix_uwsgi.ini
+uwsgi_params
