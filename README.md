@@ -57,6 +57,8 @@
 ![publish](picture/tags/1_tag_play_mean.png)<br>
 * 哔哩哔哩2016年至今播放数前 1w 视频弹幕词云
 ![publish](picture/danmaku_hotcomment/danmaku.png)<br>
+* 哔哩哔哩2019年6月前科技类视频各月发布图
+![publish](picture/technology/tech_pubcount_1.png)<br>
 * 哔哩哔哩2019年6月前科技类视频星期发布变化图
 ![publish](picture/technology/tech_week.png)<br>
 * 哔哩哔哩2019年6月前科技类视频小时发布变化图
