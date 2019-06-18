@@ -20,13 +20,15 @@
 * numpy
 * pymongo
 * pickle
+* jieba
+* wordcloud
 ## 文件说明
 ### spider_code 文件夹
 * 抓取的2019年六月前哔哩哔哩播放数1万以上视频信息代码;
 * 抓取的2019年六月前哔哩哔哩播放数前1万视频弹幕及热评代码;
 * 抓取哔哩哔哩2016年至今每月各分类视频发布数代码；
 * 抓取已抓取的播放数超 50w 视频的作者信息代码；
-* 抓取 video 详细信息，以便获取获得弹幕的 cid代码。
+* 抓取 video 详细信息，以便获取获得弹幕的 cid 代码。
 ### picture_code 文件夹
 本项目需大量使用 matplotlib 绘图，因此绘图部分使用 jupyter notebook，**blblneaten.ipynb** 中包含生成 picture 文件夹中图片的所有代码。此处强烈推荐使用 jupyter notebook 进行数据分析，方便快捷；
 ### picture 文件夹
@@ -38,7 +40,7 @@
 * Danmaku_hots: 弹幕词云及热评分词条形图;
 * Analyze: 对全站及科技类视频发布从小时、星期、数量等方面分别进行对比分析;以及全站视频发布与弹幕发布时间的分析。
 ### pickle_file 文件夹
-为方便绘图，部分数据在本项目使用序列化数据存储变量，pickle_file 文件夹放置本代码所需的序列化文件。
+为方便绘图，部分数据在本项目使用序列化数据存储变量，pickle_file 文件夹放置本代码所需的序列化文件及部分 jieba 分词所需的文件。
 ## 一些建议
 * 爬取时大部分数据为 json 格式，推荐使用 MongoDB 存储数据;
 * 绘图库使用 matplotlib，官方示例<https://matplotlib.org/>；
