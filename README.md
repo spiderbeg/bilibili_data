@@ -42,7 +42,7 @@
 ### pickle_file 文件夹
 为方便绘图，部分数据在本项目使用序列化数据存储变量，pickle_file 文件夹放置本代码所需的序列化文件及部分 jieba 分词所需的文件。
 #### json 文件夹
-同时为方便大家直接观察输入的数据，已将 pickle 序列化的文件，重新用 json 序列化为可读的 json 文件，转换代码 一并放在**picture_code 文件夹**中**blblneaten.ipynb**末尾处。当然就使用序列化而言，自己存储字典等 python内置对象时想要自己能看就直接序列化为 json 文件。
+同时为方便大家直接观察输入的数据，已将 pickle 序列化的文件，重新用 json 序列化为可读的 json 文件，转换代码 一并放在**picture_code 文件夹**中**blblneaten.ipynb**末尾处。当然就使用序列化而言，自己存储字典等 python内置对象时想要自己能看就直接序列化为 json 文件，哔哩哔哩视频 16-19 各月发布视频数文件**pub_16_19.json**。
 ## 一些建议
 * 爬取时大部分数据为 json 格式，推荐使用 MongoDB 存储数据;
 * 绘图库使用 matplotlib，官方示例 <https://matplotlib.org/> ；
