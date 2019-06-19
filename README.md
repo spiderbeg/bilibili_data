@@ -66,3 +66,5 @@
 ![publish](picture/technology/tech_week.png)<br>
 * 哔哩哔哩2019年6月前科技类视频小时发布变化图
 ![publish](picture/technology/tech_hour.png)<br>
+* 哔哩哔哩2019年6月全站播放数前 1w 视频作者视频数与播放数及粉丝数散点图
+![publish](picture/author/author_c_play.png)<br>
